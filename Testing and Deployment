@@ -1,0 +1,17 @@
+Development
+    ↓
+Run FastAPI locally
+    ↓
+Test /docs and API endpoints
+    ↓
+pytest
+    ↓
+Fix errors + warnings
+    ↓
+Dockerize
+    ↓
+Deploy
+    ↓
+Test deployed API
+    ↓
+Monitor logs
