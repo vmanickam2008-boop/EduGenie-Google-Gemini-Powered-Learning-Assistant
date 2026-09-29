@@ -1,0 +1,246 @@
+Functional Testing Learning Path
+1. Testing Fundamentals
+What is Software Testing?
+
+SDLC and STLC
+
+Verification vs Validation
+
+QA vs QC
+
+Manual Testing vs Automation Testing
+
+Types of testing
+
+Testing principles
+
+Defect/bug life cycle
+
+2. Functional Testing
+Learn how to test whether an application behaves according to its requirements.
+
+Requirement analysis
+
+Test scenarios
+
+Test cases
+
+Test data
+
+Positive and negative testing
+
+Smoke testing
+
+Sanity testing
+
+Regression testing
+
+Retesting
+
+Integration testing
+
+System testing
+
+End-to-end testing
+
+User Acceptance Testing (UAT)
+
+3. Test Case Design Techniques
+This is especially important for becoming good at functional testing.
+
+Equivalence Partitioning
+
+Boundary Value Analysis
+
+Decision Table Testing
+
+State Transition Testing
+
+Use Case Testing
+
+Error Guessing
+
+Pairwise Testing
+
+4. Defect Management
+Learn how to identify, document, and track bugs.
+
+What is a defect?
+
+Severity vs Priority
+
+Bug life cycle
+
+Writing effective bug reports
+
+Reproducing defects
+
+Root-cause basics
+
+Defect tracking
+
+Tools to learn:
+
+Jira
+
+Azure DevOps
+
+Bugzilla
+
+5. API Functional Testing
+Once you understand manual functional testing, learn API testing.
+
+HTTP/HTTPS
+
+GET, POST, PUT, PATCH, DELETE
+
+Request and response
+
+Status codes
+
+Headers
+
+JSON
+
+Authentication
+
+API assertions
+
+Positive/negative API testing
+
+Tool:
+
+Postman
+
+6. Database Testing
+Learn basic SQL because testers frequently validate backend data.
+
+SELECT
+
+WHERE
+
+ORDER BY
+
+GROUP BY
+
+JOINs
+
+INSERT/UPDATE/DELETE
+
+Data validation
+
+Frontend vs database validation
+
+7. Web Application Testing
+Practice functional testing on real applications.
+
+Test:
+
+Login/logout
+
+Registration
+
+Search
+
+Filters
+
+Forms
+
+Shopping cart
+
+Payments
+
+User roles/permissions
+
+File upload/download
+
+Error messages
+
+Session management
+
+8. Agile & Real-World Testing
+Learn how testing works in development teams.
+
+Agile methodology
+
+Scrum
+
+User stories
+
+Acceptance criteria
+
+Sprint testing
+
+Daily stand-ups
+
+Defect triage
+
+Regression cycles
+
+Definition of Done
+
+9. Automation — After Manual Testing
+Once your functional testing fundamentals are strong, move into automation.
+
+A common path is:
+
+Manual Testing → API Testing → SQL → Programming basics → Selenium/Playwright → Test Framework → CI/CD
+
+You can learn:
+
+Java/Python/JavaScript
+
+Selenium or Playwright
+
+TestNG/JUnit/PyTest
+
+Page Object Model
+
+Assertions
+
+Test reports
+
+Git
+
+CI/CD
+
+10. Practice Projects
+Build your skills by testing applications such as:
+
+E-commerce
+→ Login → Search → Product → Cart → Checkout → Order
+
+Banking
+→ Login → Account → Transfer → Transaction history
+
+Employee Management
+→ Login → Add employee → Edit → Delete → Search → Reports
+
+For each project, create:
+
+Requirements → Test Scenarios → Test Cases → Test Data → Execute Tests → Report Bugs → Retest → Regression Testing → Test Summary
+
+Recommended order
+Testing Basics
+↓
+Functional Testing
+↓
+Test Case Design
+↓
+Bug Reporting / Jira
+↓
+Web Testing
+↓
+SQL
+↓
+API Testing / Postman
+↓
+Agile/Scrum
+↓
+Automation Testing
+↓
+Selenium/Playwright + Programming + Framework
+
+If your goal is a Functional Testing job, I can also give you a 30-day Functional Testing study plan with daily topics, practical exercises, and interview questions.
+
+
